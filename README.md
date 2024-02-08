@@ -4,7 +4,7 @@
 This project is a basic ToDo application built using Angular, showcasing fundamental Angular features.
 
 # Angular
-
+     
 Angular is an open-source JavaScript framework designed for efficiently building user interfaces. It enables developers to create complex user interface components using small, isolated building blocks known as "components". Angular is widely used for developing Single Page Applications (SPAs) and focuses on the visual aspects of web development. Unlike libraries like React, Angular is a full-fledged framework that provides a more opinionated structure and includes features such as routing, dependency injection, and form handling out of the box.
 
 ## Key Features of Angular:
@@ -37,8 +37,6 @@ To run the ToDo application locally, follow these steps:
 
 
 ![Exp](images/3.png)
-
-
 
 # ToDoProject
 
